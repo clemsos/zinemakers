@@ -16,5 +16,9 @@ Follow instructions at [Gitbook](https://github.com/GitbookIO/gitbook):
     make pdf # using pandoc
 
 
+### Requirements
+
+    sudo apt-get install texlive-xetex fonts-sil-scheherazade texlive-lang-arabic
+
 
 This book is part of a project lead by Institute for Area and Global Studies at EPFL.
