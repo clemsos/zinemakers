@@ -2,7 +2,7 @@
 
 BOOK_NAME = zineMaker
 BOOK_CLS_NAME = Zine
-TMP_TEX_PATH = ./_latex
+TMP_TEX_PATH = ./latex
 MD_FILES = $(shell find . -name "*.md" -not -path "./_book/*"  ! -name "README.md" ! -name "SUMMARY.md")
 TEX_FILES = $(patsubst ./%.md, ./$(TMP_TEX_PATH)/%.tex, $(MD_FILES))
 
@@ -28,8 +28,10 @@ VERSION=`cat $(VERSION_FILE)`
 .PHONY: all
 all: $(TEX_FILES)
 	mkdir -p release
-	cp latex/book.tex $(TMP_TEX_PATH)/$(BOOK_NAME).tex
-	cp latex/$(BOOK_CLS_NAME).cls $(TMP_TEX_PATH)/$(BOOK_CLS_NAME).cls
+	mkdir -p $(TMP_TEX_PATH)
+	cp tex/book.tex $(TMP_TEX_PATH)/$(BOOK_NAME).tex
+	cp tex/$(BOOK_CLS_NAME).cls $(TMP_TEX_PATH)/$(BOOK_CLS_NAME).cls
+	cp -r assets $(TMP_TEX_PATH)/assets
 	rm -f $(TMP_TEX_PATH)/includes.tex
 	pandoc  SUMMARY.md -t html | \
 		grep -o '<a href=['"'"'"][^"'"'"']*['"'"'"]' | \
@@ -38,7 +40,6 @@ all: $(TEX_FILES)
 		awk '{printf("\\\include{%s}\n",$$1)}' \
 		>> $(TMP_TEX_PATH)/includes.tex
 	sed -i -ne '/% BEGIN INCLUDES/ {p; r $(TMP_TEX_PATH)/includes.tex' -e ':a; n; /% END INCLUDES/ {p; b}; ba}; p' $(TMP_TEX_PATH)/$(BOOK_NAME).tex
-
 
 # make latex output path
 latex/%.tex: ./%.md
