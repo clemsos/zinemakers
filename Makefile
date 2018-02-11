@@ -63,7 +63,7 @@ rebuild : clean all
 # Build ebook with gitbook, then add metadata for Lulu
 ebook:
 	gitbook epub . .release/datfic.epub
-	ebook-meta -a"$(AUTHOR)" --date="$(YEAR)" -p"$(PUBLISHER)" --tags="$(TAGS)" costoffreedom.epub
+	ebook-meta -a"$(AUTHOR)" --date="$(YEAR)" -p"$(PUBLISHER)" --tags="$(TAGS)" $(BOOK_NAME).epub
 
 # Draft build
 pdf-draft : all
