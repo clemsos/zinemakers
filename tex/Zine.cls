@@ -3,6 +3,19 @@
 \LoadClass[twoside,openright,oneside,12pt]{book}
 
 
+% the page
+% page layout
+\RequirePackage[paperwidth=6in, paperheight=9in, margin=.7in]{geometry} % cus­tomize page lay­out
+\pagestyle{plain} % options: empty , plain , fancy
+\RequirePackage{lscape}
+
+% typo
+\RequirePackage{setspace} %spacing between lines
+\setlength{\parskip}{.6em} %paragraph spacing
+\RequirePackage[normalem]{ulem} %strikethrough
+% \setlength{\parindent}{5pt} % new paragraph indent
+
+
 %encoding
 % \RequirePackage[utf8]{inputenc}
 \RequirePackage[english]{babel}
@@ -15,7 +28,6 @@
 % \renewcommand{\sfdefault}{lmss}
 % \renewcommand{\familydefault}{\sfdefault}
 % \renewcommand{\rmdefault}{lmss}
-
 
 % Media & images
 \RequirePackage{graphicx}
@@ -54,26 +66,16 @@
 \RequirePackage{titlecaps}
 \renewcommand\thesection{} % remove section number
 
-
 % fonts
 \sectionfont{
-  \usefont{T1}{qhv}{b}{n}\selectfont \huge \color{cofred} \MakeUppercase
+  \selectfont \huge \color{Crimson}
+  % \MakeUppercase
   }
   %font, color, layout
-\subsectionfont{
-  \usefont{T1}{qhv}{b}{n}\selectfont \large \color{cofred} \MakeUppercase
-} %font, color, layout
+% \subsectionfont{
+%   \usefont{T1}{qhv}{b}{n}\selectfont \large \color{cofred} \MakeUppercase
+% } %font, color, layout
 
-% page layout
-\RequirePackage[paperwidth=6in, paperheight=9in, margin=.9in]{geometry} % cus­tomize page lay­out
-\pagestyle{plain} % options: empty , plain , fancy
-\RequirePackage{lscape}
-
-% typo
-\RequirePackage{setspace} %spacing between lines
-\setlength{\parskip}{.6em} %paragraph spacing
-\RequirePackage[normalem]{ulem} %strikethrough
-% \setlength{\parindent}{5pt} % new paragraph indent
 
 %bio
 \renewcommand\verbatim@font{\usefont{T1}{qhv}{b}{n}\selectfont}
