@@ -1,6 +1,6 @@
 # What are zines
 
-Zines are self-published booklets. 
+Zines are self-published booklets.
 
 
 
