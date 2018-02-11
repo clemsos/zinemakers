@@ -1,8 +1,5 @@
 # What are zines
 
-![](/assets/zines.jpg)
+![](assets/zines.jpg)
 
 Zines are self-published booklets.
-
-
-
