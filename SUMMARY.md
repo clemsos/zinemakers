@@ -1,5 +1,5 @@
 # Summary
 
-* [Lorem Ipsum](lorem.md)
 * [How to Write](write.md)
+* [Lorem Ipsum](lorem.md)
 * [Zines](zines.md)

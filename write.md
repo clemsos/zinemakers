@@ -11,12 +11,14 @@ To add content, you can either :
 * use [Gitbook Editor](https://www.gitbook.com/editor) to add contents
 * use Git and submit PR on the [Github rep](https://github.com/clemsos/zinemakers).
 
-
 ### Accepted Languages
 
-* English
-* 中文
-* C
-* Python
-* Javascript
-* ...
+English, 中文, C, Python, Javascript, etc...
+
+### Read
+
+Read online at [https://zine.mapmakers.space](https://zine.mapmakers.space)
+
+### Comment
+
+You can comment directly inline using the [web interface](https://zine.mapmakers.space).
