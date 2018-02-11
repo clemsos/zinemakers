@@ -71,4 +71,5 @@ pdf-draft : all
 
 # Release build
 pdf-release : all
+	cp tex/Final.tex $(TMP_TEX_PATH)/Final.tex
 	@cd $(TMP_TEX_PATH) && latexmk -xelatex -gg -pdf -pvc- Final.tex && mv Final.pdf "../release/$(BOOK_NAME)-`cat ../$(VERSION_FILE)`.pdf"
