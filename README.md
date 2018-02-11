@@ -1,3 +1,4 @@
-# My Awesome Book
+# Mapping Spaces for Making
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book is part of a project lead by Institute for Area and Global Studies at EPFL.
+
