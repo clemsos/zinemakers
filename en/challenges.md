@@ -9,6 +9,11 @@ We have started build a collection of [existing maps](/maps.md).
 
 First and foremost, the biggest challenges we are facing is to identify interesting data sources regarding spaces for making in China.
 
+Some possible solutions to this problem :
+- identify new data sources (companies, government, etc)
+- fetch and aggregate existing data. For instance, there are many information about specific spaces that are scattered around :  [Makertour](http://www.makertour.fr/ateliers-explores/), etc.
+- recollect experiences using structured data. A data model has been defined and can be used here on [Airtable](https://airtable.com/shrLn2gDYjGEK4YdR). You can start to edit following this [invite link](https://airtable.com/invite/l?inviteId=invMBC790UFg2tNmh&inviteToken=9b06fe4674eb5f96f85a683becea41cc21e0e1fa5b67f8ff63fbf27d3fc54240)
+
 ### Visualize Xinchejian's wiki
 
 There is many tools and different ways to visualize activities on a wiki. As Xinchejian has been an important organization, it will be interesting to try to understand this experience based on the wiki.
