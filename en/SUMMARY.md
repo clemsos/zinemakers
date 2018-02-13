@@ -6,6 +6,7 @@
 * References
   * [List of existing Maps and visualizations](references/maps.md)
   * [Bibliography](references/bibliography.md)
+  * [Data sources](references/sources.md)
 
 <!-- * [Lorem Ipsum](lorem.md)
 * [Zines](zines.md)

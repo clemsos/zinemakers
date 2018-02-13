@@ -1,25 +1,34 @@
 # Data challenges
 
 
-### Collect existing maps
+### Identify new data sources
 
-We have started build a collection of [existing maps](/maps.md).
+First and foremost, the biggest challenges we are facing is to identify interesting data sources regarding spaces for making in China (media, websites, companies, government, research institutes, etc)
 
-### Missing data sources
+Please check the [list of data sources](/sources.md) and feel free to add any missing source you can think of.
 
-First and foremost, the biggest challenges we are facing is to identify interesting data sources regarding spaces for making in China.
+We have also started to build a collection of [interesting maps](/maps.md).
 
-Some possible solutions to this problem :
-- identify new data sources (companies, government, etc)
-- fetch and aggregate existing data. For instance, there are many information about specific spaces that are scattered around :  [Makertour](http://www.makertour.fr/ateliers-explores/), etc.
-- recollect experiences using structured data. A data model has been defined and can be used here on [Airtable](https://airtable.com/shrLn2gDYjGEK4YdR). You can start to edit following this [invite link](https://airtable.com/invite/l?inviteId=invMBC790UFg2tNmh&inviteToken=9b06fe4674eb5f96f85a683becea41cc21e0e1fa5b67f8ff63fbf27d3fc54240)
+### Recollect past events using structured data
+
+Changes happened fast. There is a lot of information about specific spaces all over the Internet and in the mind of people. The idea here is to provide a data structure that will help to recollect all the past events and give some perspective about their unfolding.
+
+A data model based on events has been defined on [Airtable](https://airtable.com/shrLn2gDYjGEK4YdR). You can start to edit following this [invite link](https://airtable.com/invite/l?inviteId=invMBC790UFg2tNmh&inviteToken=9b06fe4674eb5f96f85a683becea41cc21e0e1fa5b67f8ff63fbf27d3fc54240)
+
+For some sources of data to aggregate, please check [references](/sources.md)
+
+### Map the network of your project
+
+You have a project you did in the space and would like to share it?
+
+Please just start a page and describe what it is, how it works, how you did it and why being in the space helped you. You can use [Graph Commons](https://graphcommons.com/) to draw a map of the actors of the project : people, brands, companies, websites, institutions, etc.
+
 
 ### Visualize Xinchejian's wiki
 
 There is many tools and different ways to visualize activities on a wiki. As Xinchejian has been an important organization, it will be interesting to try to understand this experience based on the wiki.
 
 Xinchejian's wiki use Wikimedia. Some approaches for analyses are described in  [this notebook](https://gist.github.com/clemsos/f15cc2e74ba7605717e758d0ed5866df). You can also check some [interactive map of the edits](https://app.topogram.io/topograms/BWqQQzAwvyYSSsxzF/view).
-
 
 ### Map actual spaces
 
