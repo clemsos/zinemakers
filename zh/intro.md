@@ -1,9 +1,9 @@
 # Mapping Spaces for Making
 
-> 欢迎 :)
+> 嘿 :)
 
-The present book is an attempt to collect, map, visualize and publish observations and findings about spaces for making in the cities of Shanghai and Shenzhen.
+这个网咱采集一些关于创客的数据。我们主要想收集，记录，和可视化关于这几年创客的一些变化。
 
-### Contributions are welcome !
+### 欢迎参加 !
 
-Read [the guidelines](howto.md) to learn how to contribute.
+可以看看 [怎么参加](howto.md) 和 [内容](content.md).
