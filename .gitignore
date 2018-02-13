@@ -1,3 +1,6 @@
+# books
+book*.pdf
+
 # tmp files for latex compilation
 latex
 latex/
