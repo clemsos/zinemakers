@@ -20,4 +20,4 @@ We collect data regarding
 3) relationships with making outside China
 
 * trips or presence of Chinese makers abroad
-* 
+*

@@ -1,0 +1,34 @@
+# Data challenges
+
+
+### Collect existing maps
+
+We have started build a collection of [existing maps](/maps.md).
+
+### Missing data sources
+
+First and foremost, the biggest challenges we are facing is to identify interesting data sources regarding spaces for making in China.
+
+### Visualize Xinchejian's wiki
+
+There is many tools and different ways to visualize activities on a wiki. As Xinchejian has been an important organization, it will be interesting to try to understand this experience based on the wiki.
+
+Xinchejian's wiki use Wikimedia. Some approaches for analyses are described in  [this notebook](https://gist.github.com/clemsos/f15cc2e74ba7605717e758d0ed5866df). You can also check some [interactive map of the edits](https://app.topogram.io/topograms/BWqQQzAwvyYSSsxzF/view).
+
+
+### Map actual spaces
+
+We have started an [interactive Map for Makers for Shenzhen](https://github.com/lab0x0/szmakermap) project with Lab0x0. It is currently lacking proper data.
+
+For now, one simple thing will be to convert this [data sheet about spaces](https://docs.google.com/spreadsheets/d/1TWXYzJPAfxab4elMc-SU7UY1EhsTRKyuWikwCZY1RCU/edit?ts=599cdef0#gid=135425992) into a proper GEOJson format and just add it to the map.
+
+There is also a bunch of [open issues](https://github.com/lab0x0/szmakermap/issues) on Github.
+
+### Create NetworkX maps of Chinese cities and place spaces on the map
+
+Use the awesome [OSMnx](https://github.com/gboeing/osmnx) to generate network maps from existing OSM mapping . Here is some [Python code](https://gist.github.com/clemsos/c252e131c58affc6ba092d9456f2bd16) that can be used to create a network map of difference cities in China.
+
+Several problems persist :
+
+* OSM data is not very accurate. Does similar approaches with Baidu exists ?
+* How to point existing places in the network ? Will be interesting to understand the paths and directions between different spaces.
