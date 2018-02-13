@@ -23,9 +23,6 @@ What do you want to do ?
 * record
 * ...
 
-
-
-
 ## Write online with Gitbook
 
 To write, we use [Gitbook](https://toolchain.gitbook.com/).
@@ -38,15 +35,21 @@ You can use [Gitbook Editor](https://www.gitbook.com/editor) to add contents.
 
 All the contents are stored on [Github](https://github.com/clemsos/zinemakers).
 
-To add content, you can use Git and submit PR on the [Github rep](https://github.com/clemsos/zinemakers).
+If you want to write or add content, you can use Git and submit a PR on the [Github rep](https://github.com/clemsos/zinemakers).
 
 ## Translate
 
-Any effort regarding translation is very welcome. 
+Any effort regarding translation is very welcome.
 
-## Compile the book using Latex
+The Chinese version is available [here](/zh) and you can edit in the `/zh` folder of the [main repository](https://github.com/clemsos/zinemakers).
 
-Read more about that on [Github](https://github.com/clemsos/zinemakers).
+## Compile the book to PDF
+
+There is several ways to create a PDF from the online book using Gitbook or Latex. You can read more about that on [Github](https://github.com/clemsos/zinemakers).
+
+Also we are still looking for a more [interesting way to compile to PDF](https://github.com/clemsos/zinemakers/issues/7).
+
+## Translate
 
 
 ### Read & Comment
