@@ -4,5 +4,9 @@
   "language" : "en",
   "structure" : {
     "readme" : "intro.md"
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "pdf": "styles/pdf.css"
   }
 }
