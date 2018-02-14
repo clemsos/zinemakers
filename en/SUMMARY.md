@@ -5,15 +5,18 @@
 ### Introduction
 
 * [Introduction](intro.md)
-* [Open Challenges !](challenges.md)
+* [To Dos](challenges.md)
+---
+### Howto
+
 * [Write](write.md)
 * [Publish](publish.md)
 
 ---
 
-### Workshops
+### Workshops / Events
 
-* [Preparatory workshop in Lausanne](workshops/renens.md)
+* [Lausanne](workshops/renens.md)
 * [Shanghai](workshops/shanghai.md)
 * [Shenzhen](workshops/shenzhen.md)
 ---
