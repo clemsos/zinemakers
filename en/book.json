@@ -8,5 +8,15 @@
   "styles": {
     "website": "styles/website.css",
     "pdf": "styles/pdf.css"
+  },
+  "pdf" : {
+    "pageNumbers" : true,
+    "paperSize" : "a5",
+    "margin" : {
+      "top" : 26,
+      "bottom" : 26,
+      "right" : 32,
+      "left" : 32
+    }
   }
 }
