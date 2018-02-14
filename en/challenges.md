@@ -4,7 +4,7 @@
 
 First and foremost, the biggest challenges we are facing is to identify interesting data sources regarding spaces for making in China \(media, websites, companies, government, research institutes, etc\)
 
-Please check the [list of data sources](/sources.md) and feel free to add any missing source you can think of
+Please check the [list of data sources](/sources.md) and feel free to add any missing source you can think of.
 
 We have also started to build a collection of [interesting maps](/maps.md).
 
