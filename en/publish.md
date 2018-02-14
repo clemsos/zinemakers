@@ -6,9 +6,7 @@ This page explains how to export and print the current online book.
 
 The official page format for the book is A5.
 
-### PDF (InDesign/Illustrator/Inkscape) Template
-
-Please find here a PDF template containing a Grid.
+Please find here a PDF (InDesign/Illustrator/Inkscape) template containing a grid.
 
 
 ## Export to PDF
