@@ -9,5 +9,7 @@
 
 A collaborative writing session to create maps and visualization of spaces for making in Shanghai!
 
-![](/assets/2f5c57bccf6823d38a29cc078023ad54%281%29.jpg)
+###### ![](/assets/2f5c57bccf6823d38a29cc078023ad54%281%29.jpg)
+
+
 
