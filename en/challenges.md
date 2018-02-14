@@ -1,11 +1,10 @@
 # Challenges
 
-
 ### Identify new data sources
 
-First and foremost, the biggest challenges we are facing is to identify interesting data sources regarding spaces for making in China (media, websites, companies, government, research institutes, etc)
+First and foremost, the biggest challenges we are facing is to identify interesting data sources regarding spaces for making in China \(media, websites, companies, government, research institutes, etc\)
 
-Please check the [list of data sources](/sources.md) and feel free to add any missing source you can think of.
+Please check the [list of data sources](/sources.md) and feel free to add any missing source you can think of
 
 We have also started to build a collection of [interesting maps](/maps.md).
 
@@ -17,12 +16,11 @@ A data model based on events has been defined on [Airtable](https://airtable.com
 
 For some sources of data to aggregate, please check [references](/sources.md)
 
-### Map the network of your project
+### Map the network of your project
 
 You have a project you did in the space and would like to share it?
 
 Please just start a page and describe what it is, how it works, how you did it and why being in the space helped you. You can use [Graph Commons](https://graphcommons.com/) to draw a map of the actors of the project : people, brands, companies, websites, institutions, etc.
-
 
 ### Visualize Xinchejian's wiki
 
@@ -38,7 +36,7 @@ For now, one simple thing will be to convert this [data sheet about spaces](http
 
 There is also a bunch of [open issues](https://github.com/lab0x0/szmakermap/issues) on Github.
 
-### Create NetworkX maps of Chinese cities and place spaces on the map
+### Create NetworkX maps of Chinese cities and place spaces on the map
 
 Use the awesome [OSMnx](https://github.com/gboeing/osmnx) to generate network maps from existing OSM mapping . Here is some [Python code](https://gist.github.com/clemsos/c252e131c58affc6ba092d9456f2bd16) that can be used to create a network map of difference cities in China.
 
@@ -46,3 +44,6 @@ Several problems persist :
 
 * OSM data is not very accurate. Does similar approaches with Baidu exists ?
 * How to point existing places in the network ? Will be interesting to understand the paths and directions between different spaces.
+
+
+
