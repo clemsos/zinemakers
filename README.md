@@ -15,7 +15,6 @@ Follow instructions at [Gitbook](https://github.com/GitbookIO/gitbook):
     make latex # create tex files
     make pdf # using pandoc
 
-
 ### Requirements
 
     sudo apt-get install texlive-xetex fonts-sil-scheherazade texlive-lang-arabic
