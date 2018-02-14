@@ -1,8 +1,6 @@
 # Bibliography
 
-## Scholar Articles
-
-#### Makers in China
+## Makers in China
 
 * 2016 年众创空间调研报告, 2016. . 浦东创新研究院.
 * Chen, Y., Wu, C., 2017. The hot spot transformation in the research evolution of maker. Scientometrics. https://doi.org/10.1007/s11192-017-2542-4
@@ -21,7 +19,7 @@
 * Wang, J., 2016. The makers are coming ! China’s long tail, in: Keane, M. (Ed.), Handbook of Cultural and Creative Industries in China. Edward Elgar Publishing, pp. 43–63.
 * Wen, W., 2017. Making in China: Is maker culture changing China’s creative landscape? International Journal of Cultural Studies 1367877917705154.
 
-# Fablabs, makerspaces, etc
+## Fablabs, makerspaces, etc
 
 * Anderson, C., 2014. Makers: The New Industrial Revolution. Crown Business.
 * Antoine Burret, 2017. Étude de la configuration en Tiers-Lieu - La repolitisation par le service.
