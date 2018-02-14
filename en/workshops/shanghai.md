@@ -9,7 +9,6 @@
 
 A collaborative writing session to create maps and visualization of spaces for making in Shanghai!
 
-![](/en/assets/2f5c57bccf6823d38a29cc078023ad54%281%29.jpg)  
-![](/en/assets/SWX_Logos_140722_Nha_v2_China.png)  
-![](/en/assets/qr-shanghai.png)
-
+![](/assets/2f5c57bccf6823d38a29cc078023ad54%281%29.jpg)  
+![](/assets/SWX_Logos_140722_Nha_v2_China.png)  
+![](/assets/qr-shanghai.png)
