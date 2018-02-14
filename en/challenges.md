@@ -18,7 +18,7 @@ For some sources of data to aggregate, please check [references](/sources.md)
 
 ### Map the network of your project
 
-You have a project you did in the space and would like to share it?
+You have a project you did and would like to share it?
 
 Please just start a page and describe what it is, how it works, how you did it and why being in the space helped you. You can use [Graph Commons](https://graphcommons.com/) to draw a map of the actors of the project : people, brands, companies, websites, institutions, etc.
 
