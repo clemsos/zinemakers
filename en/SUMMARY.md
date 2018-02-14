@@ -6,6 +6,7 @@
 
 * [Introduction](intro.md)
 * [To Dos](challenges.md)
+
 ---
 ### Howto
 
@@ -19,8 +20,10 @@
 * [Lausanne](workshops/renens.md)
 * [Shanghai](workshops/shanghai.md)
 * [Shenzhen](workshops/shenzhen.md)
+
 ---
 ### References
 
 * [Bibliography](references/bibliography.md)
 * [References](references/sources.md)
+* [Authors](authors.md)
