@@ -15,12 +15,9 @@
 
 ---
 
-### Workshops / Events
-
-* [Lausanne](workshops/renens.md)
-* [Shanghai](workshops/shanghai.md)
-* [Shenzhen](workshops/shenzhen.md)
-
+### Methodology
+* [Workshops](/workshops.md)
+* [Tools](/tools.md)
 ---
 ### References
 
