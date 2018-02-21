@@ -5,6 +5,7 @@
 Follow instructions at [Gitbook](https://github.com/GitbookIO/gitbook):
 
     npm -g install gitbook
+    gitbook install
     gitbook serve
     gitbook build
 
