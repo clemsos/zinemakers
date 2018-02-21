@@ -5,6 +5,7 @@
 ### Introduction
 
 * [Introduction](intro.md)
+* [介绍](jieshao.md)
 * [To Dos](challenges.md)
 
 ---
