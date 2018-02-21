@@ -2,21 +2,22 @@
   "title" : "Mapping Spaces for Making",
   "author" : "collective",
   "language" : "en",
+  "plugins": ["styles-sass"],
   "structure" : {
     "readme" : "intro.md"
   },
   "styles": {
     "website": "styles/website.css",
-    "pdf": "styles/pdf.css"
+    "pdf": "styles/pdf/pdf.scss"
   },
   "pdf" : {
     "pageNumbers" : true,
     "paperSize" : "a5",
     "margin" : {
-      "top" : 26,
-      "bottom" : 26,
-      "right" : 32,
-      "left" : 32
+      "top" : 30,
+      "bottom" : 30,
+      "right" : 24,
+      "left" : 24
     }
   }
 }

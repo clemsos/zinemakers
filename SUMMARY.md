@@ -9,16 +9,17 @@
 * [To Dos](todo.md)
 
 ---
+
+### Methodology
+* [Workshops](howto/workshops.md)
+* [Tools](howto/tools.md)
+
+---
 ### Howto
 
 * [Write](howto/write.md)
 * [Publish](howto/publish.md)
 
----
-
-### Methodology
-* [Workshops](howto/workshops.md)
-* [Tools](howto/tools.md)
 ---
 ### References
 
