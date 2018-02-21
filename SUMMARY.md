@@ -5,20 +5,20 @@
 ### Introduction
 
 * [Introduction](intro.md)
-* [介绍](jieshao.md)
-* [To Dos](challenges.md)
+* [介绍](intro-zh.md)
+* [To Dos](todo.md)
 
 ---
 ### Howto
 
-* [Write](write.md)
-* [Publish](publish.md)
+* [Write](howto/write.md)
+* [Publish](howto/publish.md)
 
 ---
 
 ### Methodology
-* [Workshops](/workshops.md)
-* [Tools](/tools.md)
+* [Workshops](howto/workshops.md)
+* [Tools](howto/tools.md)
 ---
 ### References
 
