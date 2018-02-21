@@ -22,5 +22,6 @@
 ### References
 
 * [Bibliography](references/bibliography.md)
+* [Glossary](references/GLOSSARY.md)
 * [References](references/sources.md)
 * [Authors](authors.md)
