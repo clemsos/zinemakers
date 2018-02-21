@@ -4,21 +4,15 @@
 
 ### Introduction
 
-* [Introduction](book/intro.md)
 * [介绍](book/intro-zh.md)
-* [To Dos](book/todo.md)
+* [TODO](book/todo.md)
 
 ---
 
 ### Methodology
 * [Workshops](book/howto/workshops.md)
-* [Tools](book/howto/tools.md)
-
----
-### Howto
-
-* [Write](book/howto/write.md)
-* [Publish](book/howto/publish.md)
+* [How To Write](book/howto/write.md)
+* [Design & Publishing](book/howto/publish.md)
 
 ---
 ### References

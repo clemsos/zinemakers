@@ -1,5 +1,7 @@
 # Workshops
 
+![](/assets/1280px-Makerspace_SLUB.jpg)
+
 We run workshops in makerspaces as part of our research process.
 
 **Requirements :**
