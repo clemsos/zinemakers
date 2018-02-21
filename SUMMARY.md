@@ -4,26 +4,26 @@
 
 ### Introduction
 
-* [Introduction](intro.md)
-* [介绍](intro-zh.md)
-* [To Dos](todo.md)
+* [Introduction](book/intro.md)
+* [介绍](book/intro-zh.md)
+* [To Dos](book/todo.md)
 
 ---
 
 ### Methodology
-* [Workshops](howto/workshops.md)
-* [Tools](howto/tools.md)
+* [Workshops](book/howto/workshops.md)
+* [Tools](book/howto/tools.md)
 
 ---
 ### Howto
 
-* [Write](howto/write.md)
-* [Publish](howto/publish.md)
+* [Write](book/howto/write.md)
+* [Publish](book/howto/publish.md)
 
 ---
 ### References
 
-* [Bibliography](references/bibliography.md)
+* [Bibliography](book/references/bibliography.md)
 * [Glossary](/GLOSSARY.md)
-* [References](references/sources.md)
-* [Authors](authors.md)
+* [References](book/references/sources.md)
+* [Authors](book/authors.md)
