@@ -44,7 +44,7 @@ A list of maps related to making
 * [Shenzhen map for makers (Maker week 2017)](https://github.com/lab0x0/szmakermap/issues/2)
 * [Shenzhen Map for Makers by Seeed Studio](http://www.seeedstudio.com/document/pdf/Shenzhen%20Map%20for%20Makers.pdf)
 * [Shenzhen Network ecosystem by Pr. Wen Wen and Hello Shenzhen team](https://graphcommons.com/graphs/3748aee3-c427-49ea-8050-f9102f51921d)
-
+* [City CPU by Gordan Savičić](https://www.yugo.at/processing/archive/?what=citycpu)
 # Hong-Kong
 
 * [HK/SZ DIY Computer, Electronics (Hackjam/DSL) - Google Maps](https://drive.google.com/open?id=16kKh47gBejiwJuYmUqDxbN1ghlc&usp=sharing)
