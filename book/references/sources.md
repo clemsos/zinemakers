@@ -33,21 +33,21 @@ from [Wikipedia Page]()
 
 A list of maps related to making
 
-## China
+### China
 
 * [Made in China 2025 Infographics](http://english.gov.cn/policies/infographics/2015/05/07/content_281475103012337.htm)
 
-## Shenzhen
+![](http://english.gov.cn/r/Pub/GOV/p1/Content/Policies/Images/2015/05/07/%E5%9B%9B._%E5%88%A0%E9%99%A4%E5%9C%B0%E5%9B%BE%EF%BC%8C%E4%BF%9D%E7%95%99%E5%86%85%E5%AE%B9%EF%BC%8C%E6%9B%B4%E6%8D%A2%E5%85%B6%E4%BB%96%E8%A1%A8%E7%8E%B0%E5%BD%A2%E5%BC%8F2.jpg)
+
+### Shenzhen
 
 * [Shenzhen map for makers \(Maker week 2016\)](https://github.com/lab0x0/szmakermap/issues/1)
 * [Shenzhen map for makers \(Maker week 2017\)](https://github.com/lab0x0/szmakermap/issues/2)
 * [Shenzhen Map for Makers by Seeed Studio](http://www.seeedstudio.com/document/pdf/Shenzhen Map for Makers.pdf)
 * [Shenzhen Network ecosystem by Pr. Wen Wen and Hello Shenzhen team](https://graphcommons.com/graphs/3748aee3-c427-49ea-8050-f9102f51921d)
-* [City CPU by Gordan Savičić](https://www.yugo.at/processing/archive/?what=citycpu) 
+* [City CPU by Gordan Savičić](https://www.yugo.at/processing/archive/?what=citycpu)
 
-  # Hong-Kong
+
+### Hong-Kong
 
 * [HK/SZ DIY Computer, Electronics \(Hackjam/DSL\) - Google Maps](https://drive.google.com/open?id=16kKh47gBejiwJuYmUqDxbN1ghlc&usp=sharing)
-
-
-
