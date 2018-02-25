@@ -35,9 +35,13 @@ A list of maps related to making
 
 ### China
 
-* [Made in China 2025 Infographics](http://english.gov.cn/policies/infographics/2015/05/07/content_281475103012337.htm)
+* Check the evolution of the [Made in China 2025 Infographics](https://web.archive.org/web/*/http://english.gov.cn/policies/infographics/2015/05/07/content_281475103012337.htm) in People's daily over the years.
 
 ![](http://english.gov.cn/r/Pub/GOV/p1/Content/Policies/Images/2015/05/07/%E5%9B%9B._%E5%88%A0%E9%99%A4%E5%9C%B0%E5%9B%BE%EF%BC%8C%E4%BF%9D%E7%95%99%E5%86%85%E5%AE%B9%EF%BC%8C%E6%9B%B4%E6%8D%A2%E5%85%B6%E4%BB%96%E8%A1%A8%E7%8E%B0%E5%BD%A2%E5%BC%8F2.jpg)
+
+### Shanghai
+
+* [Shanghai Map for Makers by Vivien Roussel](/assets/ShanghaiMapMaker.pdf)
 
 ### Shenzhen
 
