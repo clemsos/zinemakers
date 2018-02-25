@@ -18,6 +18,8 @@ We are looking for original contributions regarding your own experience with mak
 
 You can join the conversation on WeChat by using the QR Code below. Feel free to invite your friends and whoever may be interested.
 
+![](/assets/wechat-book-qrcode.png)
+
 ## Print and publish the book
 
 All contents on this website is in the public domain. We use a fully web-to-print workflow so you can easily convert the website into a PDF and print it as a book. Check the [Design & Publish](/book/howto/publish.md) section for more information about the whole publishing process.
