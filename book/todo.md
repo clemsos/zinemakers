@@ -2,24 +2,30 @@
 
 ## Writing
 
+### Describe your own local space
+
+* How is your local makerspace?
+* What does it look like?
+* How many members? Who are they?
+* Do you have recent or older data, pictures or existing maps of the space ?
+* Any documentation of projects happening inside the spaces ?
+* Who are your closest partners?
+* What is special about your city? How does your space fit into that?
+* ...
+
+Just [create a page](/book/howto/write.md) in the `Spaces` section named after your space and start writing about it.
+
+### Share your own project or experience
+
+You have a project you did in a makerspace and would like to share it? You have some experience you would like to be remembered?
+
+Just [create a page](/book/howto/write.md) in the `Projects` section and describe what it is, how it works, how you did it and why being in the space helped you.
+
 ### Iconography and maker visual culture
 
 We are looking for original or existing visual pieces and artefacts that talks about making in China.
 
-You can upload all graphics using Gitbook (check the the [How to Write](/book/howto/write.md) section) or share it in an online folder.
-
-### Share your own project or experience
-
-You have a project you did in a makerspace and would like to share it? You have some experience you would like to be written down?
-
-Please just start a page and describe what it is, how it works, how you did it and why being in the space helped you. Check the the [How to Write](/book/howto/write.md) section to see how to add content.
-
-
-### Describe your own local space
-
-How is your local makerspace? What does it look like? How many members?
-
-
+You can upload all graphics using Gitbook or share it in an online folder. Check the the [How to Write](/book/howto/write.md) section for more info.
 
 ## Mapping
 
@@ -49,6 +55,8 @@ There is also a bunch of [open issues](https://github.com/lab0x0/szmakermap/issu
 
 One of the biggest challenges we are facing in this project is to identify interesting data sources regarding spaces for making in China \(media, websites, companies, government, research institutes, maps, etc\)
 
+We are looking for interesting texts, videos, datasets and articles related to public policies about making in China.
+
 Please check the [list of data sources](/references/sources.md) and feel free to add any missing source you can think of.
 
 ### Create NetworkX maps of Chinese cities and place spaces on the map
@@ -70,6 +78,11 @@ For some sources of data to aggregate, please check [references](/references/sou
 
 ## Others
 
+### Print and web layout
+
+The web and print layouts badly needs some love, mostly using CSS and some graphic design genius. Check the [Design & Publish](/book/howto/publish.md) section for more information about the whole publishing process.
+
+
 ### Write about the project and invite your friends
 
 If you are a blogger, journalist or someone who likes this project, feel free to share it with your friends.
@@ -81,3 +94,7 @@ Any effort regarding translation is very welcome and instrumental for the succes
 ### Improve project workflow, website and infrastructure
 
 If you want to help us by solving actual code problems and solutions regarding the workflow, please check the [open issues](https://github.com/clemsos/zinemakers/issues) on Github.
+
+### Organize a workshop in your city
+
+You can organize your own writing workshop in your city. Get together with your friends, write about your own experience, etc.
