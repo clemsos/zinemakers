@@ -2,22 +2,23 @@
 
 ---
 
-### Introduction
+### Introduction / 介绍
 
-* [介绍](book/intro-zh.md)
-* [TODO](book/todo.md)
+* [Introduction / 介绍](intro.md)
+* [TODO / 任务](book/todo.md)
 
 ---
 
-### Methodology
-* [Workshops](book/howto/workshops.md)
-* [How To Write](book/howto/write.md)
-* [Design & Publishing](book/howto/publish.md)
+### Methodology / 方法
+
+* [How To Write / 怎么写](book/howto/write.md)
+* [Design & Publishing / 装帧和书籍设计](book/howto/publish.md)
+* [Workshops / 工作放](book/howto/workshops.md)
 
 ---
 ### References
 
-* [Bibliography](book/references/bibliography.md)
-* [Glossary](/GLOSSARY.md)
-* [References](book/references/sources.md)
-* [Authors](book/authors.md)
+* [Bibliography / 文献目录](book/references/bibliography.md)
+* [References / 参考书目](book/references/sources.md)
+* [Glossary / 词汇表](/GLOSSARY.md)
+* [Authors / 供稿者](book/authors.md)
