@@ -5,6 +5,7 @@
 * [Introduction / 介绍](intro.md)
 * [TODO / 任务](book/todo.md)
 * [Project XYZ](project-xyz.md)
+* [Workshop Shanghai Xspace](workshop-shanghai-xspace.md)
 
 ## Methodology / 方法
 
