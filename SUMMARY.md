@@ -6,6 +6,7 @@
 * [TODO / 任务](book/todo.md)
 * [Project XYZ](project-xyz.md)
 * [Workshop Shanghai Xspace](workshop-shanghai-xspace.md)
+* [ATELIER FABLAB](atelier-fablab.md)
 
 ## Methodology / 方法
 
