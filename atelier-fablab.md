@@ -1,4 +1,4 @@
-## ATELIER FABLAB
+## ATELIER FABLAB \(BEIJING, CHAOYANG\)
 
 When an engineer and two artists decide to change the world.  
 Sébastien Thomas \(Areva engineer\), Marianne Daquet \(founder and director of Atelier Art School\) and Adeline Parrot \(director of studies and operations at Atelier Art School\) decide to combine their know-how to create the first FabLab in Beijing in order to create a hub of education and technological experimentation unique in China.
