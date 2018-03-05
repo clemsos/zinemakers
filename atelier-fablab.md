@@ -61,5 +61,57 @@ Offer
 * Projects follow-up
 * Time slots of “Open Fab”
 
-Objectives: For the makers\* who need a space and tools which match their creative ambitions
+Objectives: For the makers who need a space and tools which match their creative ambitions
+
+## Machines
+
+Computer controlled machines exist since many years and they are mainly accessible for professional usage.  
+ FabLab is equipped with open source numerical controlled machines. The machines shown in the table below are recommended by MIT for the equipment of a FabLab.  
+ This series of machines constitute the equipment of every registered FabLab, therefore any user can go to any FabLab in the world and find the same machines and tools. An object made within Atelier FabLab can be reproduced in any other FabLab in the world \(and vice versa\).
+
+![](/assets/import.png)
+
+## What is Open Fab?
+
+We, Atelier Fablab’s team think that public access to our Fab Lab is essential:  
+ a Fab Lab is about **democratizing access to the tools to facilitate personal expression and invention**.  So, Atelier Fablab will be opened to the public during defined timeslots.
+
+Makers should come along with ideas \(upgrade of toys, product development…\) and they will be able to use the space, tools, and machines to work on their project.
+
+An assistant will be here to give advices or help with the machines but this is not a class, the makers should be able to work on their project independently.
+
+![](/assets/import2.png)
+
+
+
+## Founders
+
+## ![](/assets/import5.png)
+
+First journey in Asia in 1999,  Sébastien was absorbed by his fascination for China and his passion of new inventions.
+
+A great enthusiast of new technology, he decides to settle down at Beijing with his wife and two children in 2015.  For ten years, he has been working within a big international Engineering company, from numerical simulation to engineering team leader. He decided to launch l’Atelier FabLab of Beijing in 2016 together with Atelier Art school.
+
+## Address & contact
+
+ Address :  
+Room 502，Unit 1，Buliding 8A, Julong Garden, No.68, Xinzhong Street, Dongcheng District, Beijing
+
+
+
+Phones :  
++86 10 64 16 16 14  
++86 132 4018 4908  
+
+
+Email :  
+fablab@atelier.cn.com
+
+Website :
+
+www.atelier.cn.com/fablab
+
+![](/assets/import3.png)
+
+
 
