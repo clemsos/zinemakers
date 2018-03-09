@@ -4,6 +4,8 @@ by madbadlizard
 
 
 
+
+
 新来的人感到味觉失灵
 
 风速太快
