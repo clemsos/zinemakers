@@ -7,7 +7,7 @@
 * [Project XYZ](project-xyz.md)
 * [Workshop Shanghai Xspace](workshop-shanghai-xspace.md)
 * [ATELIER FABLAB](atelier-fablab.md)
-* [a poetry](a-poetry.md)
+* [a poem](a-poetry.md)
 
 ## Methodology / 方法
 
